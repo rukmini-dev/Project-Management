@@ -1,24 +1,39 @@
 # 🚀 Project Management Workflow Portal
 Enterprise Employee Service & Request Automation System using ServiceNow
-#📌 Project Overview
+
+# 📌 Project Overview
 Project Management Workflow Portal is an enterprise workflow automation application designed to manage employee service requests, approvals, and task tracking within an organization.
 This system enables employees to submit service requests while allowing managers and administrators to review, approve, and track requests through automated workflows.
-#🎯 Project Objectives
+
+#  🎯 Project Objectives
   Centralize employee service and request management
+  
   Automate approval workflows
+  
   Improve request tracking visibility
+  
   Reduce manual administrative workload
+  
   Improve internal service efficiency
-#🛠 Technology Stack
+
+# 🛠 Technology Stack
+  
   ServiceNow Platform
+  
   ServiceNow Studi
+  
   App Engine Studio
+  
   Workflow / Flow Designer
+  
   Service Catalog
+  
   Role-Based Access Control
+  
   Notification Engine
-  #✨ Key Features
-    #👤 Employee Features
+  
+  # ✨ Key Features
+    👤Employee Features
 
       Submit Leave Requests
       
