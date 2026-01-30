@@ -32,8 +32,9 @@ This system enables employees to submit service requests while allowing managers
   
   Notification Engine
   
-  # ✨ Key Features
-    👤Employee Features
+  # ✨ Key Features    
+  
+  # 👤 Employee Features
 
       Submit Leave Requests
       
@@ -45,7 +46,7 @@ This system enables employees to submit service requests while allowing managers
       
       View Request History
 
-  #🧑‍💼 Manager / Admin Features
+  # 🧑‍💼 Manager / Admin Features
       
       Approve / Reject Requests
       
@@ -57,24 +58,24 @@ This system enables employees to submit service requests while allowing managers
       
       Trigger Notifications
 
-#🧱 Application Modules
-  #📊 Request Management
+# 🧱 Application Modules
+  # 📊 Request Management
 
     Handles creation and tracking of employee service requests.
 
-  #🔄 Workflow Automation
+  # 🔄 Workflow Automation
 
     Automates approval process and request lifecycle.
 
-  #📩 Notification System
+  # 📩 Notification System
 
     Sends automated alerts based on request status.
 
-  #📈 Reporting & Dashboard
+  # 📈 Reporting & Dashboard
 
     Provides request tracking and analytics.
 
-#🔄 Workflow Process
+# 🔄 Workflow Process
   
   1️⃣ Employee submits service request
   ⬇
@@ -86,7 +87,7 @@ This system enables employees to submit service requests while allowing managers
   ⬇
   5️⃣ Status updated and employee notified
 
-#📊 Business Value
+# 📊 Business Value
 
   Improves employee service experience
   
@@ -96,7 +97,7 @@ This system enables employees to submit service requests while allowing managers
   
   Centralized service request monitoring
 
-#🧪 Sample Use Cases
+# 🧪 Sample Use Cases
 
   Leave Request Approval Workflow
   
@@ -104,7 +105,7 @@ This system enables employees to submit service requests while allowing managers
   
   HR Query Submission and Response
 
-#🔐 Security Features
+# 🔐 Security Features
 
   Role-Based Access Control
   
@@ -120,7 +121,7 @@ This system enables employees to submit service requests while allowing managers
   
   Admin Dashboard
 
-#🚀 Future Enhancements
+# 🚀 Future Enhancements
 
   Mobile Portal Optimization
   
@@ -130,6 +131,6 @@ This system enables employees to submit service requests while allowing managers
   
   SLA Tracking Implementation
 
-#👨‍💻 Author
+# 👨‍💻 Author
 
   Developed as part of enterprise workflow automation and ServiceNow development learning.
